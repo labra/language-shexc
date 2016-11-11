@@ -1,6 +1,6 @@
 {
   "name": "language-shexc",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Shape Expressions Compact Syntax",
   "repository": {
     "type": "git",
@@ -15,6 +15,9 @@
     "url": "https://github.com/labra/language-shexc/issues"
   },
   "keywords": [
-    "shex", "shexc", "rdf", "turtle"
+    "shex",
+    "shexc",
+    "rdf",
+    "turtle"
   ]
 }
