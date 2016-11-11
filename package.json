@@ -1,0 +1,20 @@
+{
+  "name": "language-shexc",
+  "version": "0.0.0",
+  "description": "Shape Expressions Compact Syntax",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/labra/language-shexc.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/labra/language-shexc/issues"
+  },
+  "keywords": [
+    "shex", "shexc", "shape expressions", "rdf", "turtle"
+  ],
+}
